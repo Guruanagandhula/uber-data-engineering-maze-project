@@ -1,7 +1,7 @@
 # Uber Data Analytics | Modern Data Engineering GCP Project
 
 ## Introduction
-This project dives into the world of Uber data analytics using modern data engineering practices on Google Cloud Platform (GCP). We'll leverage tools like Mage.ai for building an ETL pipeline, BigQuery for data warehousing, Looker Studio for data visualization, and Cloud Storage for managing data throughout the process.
+This project dives into the world of Uber data analytics using modern data engineering practices on Google Cloud Platform (GCP).I have leveraged tools like Mage.ai for building an ETL pipeline, BigQuery for data warehousing, Looker Studio for data visualization, and Cloud Storage for managing data throughout the process.
 
 ## Architecture
 ![Project Architecture](architecture.jpg)
@@ -17,8 +17,6 @@ This project dives into the world of Uber data analytics using modern data engin
 4. Mage.AI (modern data pipeline tool)
 
 **Modern data Pipeline Tool:** https://www.mage.ai/
-
-**Contribute to this project here:** https://github.com/mage-ai/mage-ai
 
 ## Dataset Used
 TLC Trip Record Data
@@ -37,8 +35,3 @@ Here is the dataset used in the video - https://github.com/darshilparmar/uber-da
 1. [Extract Python File](mage-files/extract.py)
 2. [Load Python File](mage-files/load.py)
 3. [Transform Python File](mage-files/transform.py)
-
-
-## Complete Video Tutorial
-Video Link - https://www.youtube.com/watch?v=WpQECq5Hx9g
-
