@@ -6,7 +6,7 @@ This project dives into the world of Uber data analytics using modern data engin
 ## Architecture
 ![Project Architecture](architecture.jpg)
 
-## Technology Used
+## Technology Used 
 1. Programming Language - Python
 2. Scripting Language - SQL
 3. Google Cloud Platform
